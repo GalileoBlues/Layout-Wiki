@@ -16,6 +16,8 @@ often i find alternate layouts outside the community that people praise without 
 of higher level statistics. So i have started this wiki in the hopes that it will act as a place for people to learn about
 what i consider to be the best layouts and information on layouts on the internet.
 
+Click [here](https://github.com/GalileoBlues/Layout-Wiki/wiki/Terminology) to navigate to the Terminology page, this is so you will understand terms used in descriptions to save time explaining concepts multiple times.
+
 Further plans for the wiki are:
 
 Complete descriptions of atleast one prominent layout of each creator
