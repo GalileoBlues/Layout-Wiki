@@ -16,5 +16,11 @@ often i find alternate layouts outside the community that people praise without 
 of higher level statistics. So i have started this wiki in the hopes that it will act as a place for people to learn about
 what i consider to be the best layouts and information on layouts on the internet.
 
-Further plans for the wiki are complete descriptions of atleast one prominent layout of each creator, have an in-depth page going into technical and non-technical detail and creating a website hosted here to move the wiki pages to.
+Further plans for the wiki are:
+
+Complete descriptions of atleast one prominent layout of each creator
+
+An in-depth page going into technical and non-technical detail on layout generators and analyzers
+
+Create a website hosted here to move the wiki pages to.
 
