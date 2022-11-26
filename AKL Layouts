@@ -1,0 +1,532 @@
+## AKL collaborated layouts:
+### Canary
+Information on this layout taken and summarized from the Canary Github page [here](https://github.com/Apsu/Canary) it is highly recommended you read the Github page if you would like to learn more about Canary.
+
+The version of the layout below is designed to be used with angle mod on a row staggered keyboard:
+```
+w l y p k z x o u ; [ ] \
+ c r s t b f n e i a '
+  j v d g q m h / , .
+```
+The version below is designed to be used with an ortholinear keyboard:
+```
+w l y p b z f o u '
+c r s t g m n e i a
+q j v d k x h / , .
+``` 
+Canary is built from the guiding principle of high Rolls while not sacrificing low SFBs or high Redirects, It has extremely high total Rolls and this gives it a "flowy" feel compared to other layouts that chose to have high alternates.
+
+Canary does not overly favor In-Rolls to Out-Rolls as the convention of In-Rolls being easier and/or faster is anecdotal and this is seen as something quickly overcome by learning the layout. Another design choice is to minimize SFBs and Redirects on the pinky finger as the variance in pinky finger lengths across the population doesn't ensure everyone will be able to use top/bottom-row pinky sequences.
+
+Canary also tries to optimize vowel SFBs and redirects by placing them on one hand in a vowel block without overloading the pinky as mentioned above. 
+
+### Rollla
+Information on this layout is taken and summarized from Tanamar's layouts page on Github [here] (https://github.com/samuelxyz/layouts#rollla) it is highly recommended to read this page if you are interested in Rollla.
+
+Rollla:
+```
+y o u b .  x k c l v
+ i a e n ,  m h s r t
+  ' / p w z  f d g j q
+```
+Rollla is a mod of Semi's layout called Rolll and was developed in collaboration with [<3](https://github.com/mindhatch) and trialyzer.
+
+Rollla is designed to introduce Angle mod and reduce Lateral stretching and SFS compared to Semi's Rolll.
+
+Notable characteristics are:
+* Low DSFB/SFS, fairly low SFBS and low Lateral stretching
+* Plenty of rolls, especially In-Rolls
+* Decently low Redirects despite having high amounts of Rolls and One-Hands
+* Moderate Alternation
+* T on pinky which may be intimidatingly high frequency but the movement on RP is quite low.
+
+# Apsu
+
+### APTv3
+
+```
+w g d f b  q l u o y
+r s t h k  j n e a i ;
+x c m p v  z , . ' /
+```
+
+### APTx
+
+```
+j c d w x  k p o u ; 
+r s t n v  y h a i e 
+l g m b q  z f . , ' 
+```
+
+### APTex
+
+```
+/ w g d b  j f o u ;
+r s t h v  y n a i l
+x c m k q  z p ' , .
+           e
+```
+
+### Adept
+
+```
+/ w m p q  z k , . ;
+r s n t g  v h a i o
+x c f d b  j l u y '
+           e
+```
+
+### Wreath
+
+```
+j g d f b  q l u o y 
+n s t h k  w r e a i 
+x c m p v  z , . ' /
+```
+
+### Wreathy
+
+```
+q g d f v  j l u o , 
+n s t h y  w r e a i 
+b c m p k  z x / ' .
+```
+
+### Rollmak
+
+```
+q w f p b  z l u o ; 
+c r s t g  m n e a i 
+v x y d k  j h / , .
+```
+
+### Whorf6
+
+```
+v l h k j  g w o u . 
+s r n t m  y d e a i 
+x q b f z  p c ' , ;
+``` 
+
+# Bryson
+
+### Nitro S
+
+Based on Nitro which was co-created by Oxey and based on a layout generated on Oxeylyzer, Nitro S is meant to be better in every way to Nitro.
+
+```
+p m l d x  v c o u , 
+n t r h y  b s a e i 
+z q j f k  w g ' ; .
+```
+
+### Nitrogen
+
+Nitrogen is based on Nitro S and it's aim is to push as much usage to the top and home rows while also keeping the same philosophy of Sturdy by Oxey using the same vowel block and similar LM and LR columns. Nitrogen has high Alternation and comparatively low Rolls.
+
+```
+p m l c w  f d o u ,
+n t r s g  y h a e i
+z j q b v  x k ' ; .
+```
+
+### Hydrogen
+
+Hydrogen is also based on Nitro S and was made at the same time as Nitrogen, Hydrogen differs in what index columns are used and was created with the intention of promoting more In-Rolls which results in more Redirects.
+
+```
+p m l d f  b c o u , 
+n t r h y  g s a e i 
+z v j k x  q w ' ; .
+```
+
+### Helium
+
+Helium is a layout loosely based on Hydrogen and tries to create a new vowel arrangement that places 'U' above 'H' in the index column.
+
+```
+p l d c g  v u o y q
+n r t s b  f h e i a
+j x m w z  k . ' ; ,
+```
+
+# Flare
+
+### Crouton
+
+```
+g l d p q  z k o u , 
+c r t n v  y h a e i 
+w j m b      x ' ; . 
+           f s
+```
+
+### Zwou
+
+```
+p l d f k  z w o u , 
+n r t h y  v s a e i / 
+q j m c g  x b ' ; . 
+```
+
+### Ridge
+
+```
+v m l w q  z x o u , 
+s t r d g  f n a e i 
+ k j p c    b h ' ; .
+              y
+```
+
+# Smudge
+
+### Nerps
+
+```
+x l d p v  z k o u ;
+n r t s g  y h e i a /
+q j m c w  b f ' , .
+```
+### Nerts
+
+```
+p l d v x  z k o u ;
+n r t s g  y h e i a /
+q j m c w  b f ' , .
+```
+
+### Megamak
+
+```
+x l y w k  z f o u ;
+c r s t g  b n e i a '
+j v d m q  p h / , .
+```
+
+### Sertain
+
+```
+x l d k v  z w o u ; 
+s r t n f  g y e i a / 
+q j m h b  p c ' , .
+```
+
+### Aest
+
+```
+. , ; i r h w g p q
+' a y e s n t m v j /
+x o u b l d c f k z
+```
+
+### Calemog
+
+```
+x l c w k  z f u y ; 
+o r s t m  b n e i a 
+q j v d g  p h ' , .
+```
+
+# Oxey
+
+### Sturdy
+
+```
+v m l c p  x f o u j 
+s t r d y  . n a e i -
+z k q g w  b h ' ; ,
+```
+
+### Crest
+
+```
+w l f d k  z j u o y
+c r s t g  p n e a i
+' x v m q  b h , . ;
+```
+
+### Dvarf
+
+```
+' u o w p  q v d r f
+a i e y g  l h t n s
+, . ; c j  k m b x z
+```
+
+### Hands right
+
+```
+v l c d k  z ' u o y
+n r s t g  p h e a i
+q x w m j  b f , . ;
+```
+
+### Hands up
+
+```
+f y o u ,  k w c l p
+h i e a .  d t s r n
+b j ' z ;  v m g x q
+```
+
+### Sunntig
+
+Made for Swiss German
+
+This layout was generated for Swiss German with the Oxeylyzer generator and refined by Cubeman which can be found [here](https://github.com/Freeman999/sunntig)
+
+```
+z m l b p  ' , o u ü 
+h s n t g  . r e i a 
+k f w d v  j c ä y ö
+```
+
+# Colby
+
+### CTGAP 4.0
+
+```
+x c l m k  j y o u / 
+r s t h b  p n e i a 
+q g w d v  z f ' , .
+```
+
+# Boo
+
+### Boo
+
+```
+, . u c v  q f d l y
+a o e s g  b n t r i
+; x ' w z  p h m k j
+```
+
+### Siuol
+
+```
+x c l g k  q j u o y 
+r s t h d  b n e a i 
+' w v m z  p f . , ; 
+```
+
+# Whorf
+
+### Whorf
+
+```
+f l h d m  v w o u , 
+s r n t k  g y a e i / 
+x j b z q  p c ' ; . 
+```
+
+### RTNA
+
+```
+x d h . q  b f o u j 
+r t n a ;  g w e i s 
+l k m , /  p c z y v 
+```
+
+### ISRT
+
+```
+y c l m k  z f u , ' 
+i s r t g  p n e a o ; 
+q v w d j  b h / . x 
+```
+
+### SIND
+
+```
+y , h w f  q k o u x 
+s i n d c  v t a e r 
+j . l p b  g m ; / z 
+```
+
+### Scythe
+
+```
+b u a r j  g w d y ~
+s i o n l  c m t h e
+q ~ ~ x z  v f p k ~
+```
+
+### Taipo
+
+![taipo](https://user-images.githubusercontent.com/105921721/204110833-3bb47455-f926-48ee-b157-24345ffc01b3.png)
+
+
+# Clemenpine
+
+
+### Pine
+
+```
+y l r d w  j m o u , 
+c s n t g  p h a e i 
+x z q v k  b f ' / .
+```
+
+### Pinball
+
+```
+z k d w q  j y o u ;
+n t h r v  c s e i a
+p b m l x  f g ' , .
+```
+
+# Semi
+
+### Semimak
+
+```
+f l h v z  q w u o y 
+s r n t k  c d e a i ; 
+x ' b m j  p g , . / 
+```
+
+### Semimak-JQ
+
+```
+f l h v z ' w u o y
+s r n t k c d e a i ;
+x j b m q p g , . /
+```
+
+### Rolll
+
+```
+y o u w b  x k c l v 
+i a e n p  d h s r t 
+j / , . q  f m g ' z 
+```
+### Hyperroll
+
+```
+p c l m v  x u o y f
+n s r t d  . a e i h
+b g ' w z  / , q j k
+```
+
+### Vitrimak
+
+Row-Staggered:
+```
+t k v u m  i a j b r
+ w x / f p  d g q , s
+  h . ' c o  l n z y e 
+```
+
+Ortholinear:
+```
+t y q o c  a i v . e
+w , x p m  g d / j s
+h b z u f  n l ' k r
+```
+
+# Octa
+
+### Octa8
+
+```
+y o u k x g w d l ,
+i a e n f b s t r c
+q / z h ' v p m j .
+```
+
+# Tanamr
+
+### Seht-drai
+
+Angle-Mod:
+```
+f u l v b  ; g n o j 
+s e h t k  z d r a i 
+ ' m p w q  y c x / , 
+```
+
+### Rollla
+
+Made by Tanamr and <3
+
+Angle mod:
+```
+y o u b .  x k c l v 
+i a e n ,  m h s r t 
+ ' / p w z  f d g j q 
+```
+
+### Ints
+
+Angle Mod:
+```
+f o u m j  q g d p , 
+h a e r x  v s t n i 
+ ' / l w z  y c k b .
+```
+
+# Qwertron
+
+### Vietnamese Dvorak
+
+Based on Dvorak, Vietnamese Dvorak layout is an important addition to the collection of Vietnamese-based layouts, with honorable mentions of input methods like Telex or VNI (number-based) that are optimized for QWERTY. This layout attempts to re-innovate the Telex layout to make it even more optimized. With the vowel line on the left, this layout aims to reduce many sfbs for diphthongs, create comfortable(ish) rolls for triphthongs and also combined with consonants in order to create an overall comfortable and “rolly” typing experience.
+
+```
+, w o ; ‘ z f g m l -
+a i e u k d h t n s x
+q y c . / j r p b v
+```
+
+### Radish
+
+```
+v c w f q z p u o y / =
+r d s h l k t e a i -
+x j m n ; b g ' , .
+```
+
+# Ec0vid
+
+### Trendei
+
+Angle mod:
+```
+k l h w b  z f o u ; 
+t r n d c  y s e i a 
+ j m g p q  x v ' , .
+```
+
+### Stacy
+
+```
+. u o f p  q k h l v 
+a i e c y  j t n r s 
+ , ' w g z  b d m x 
+```
+
+# StronglyTyped
+
+### Real
+
+```
+y l u o .  z f h c w / = 
+i r e a ,  d t n s m - 
+; j ' q x  p k b g v 
+```
+
+### Dwarf
+
+```
+f l h d v  z g o u . 
+s r n t m  p y e i a 
+x j b k q  c w ' , ;
+```
+
+### Trendy
+
+```
+k l h w z  j f o u , 
+t r n d c  y s a e i 
+q x m p b  g v . ' ;
+```
+
